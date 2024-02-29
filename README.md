@@ -22,7 +22,7 @@
 
 ## Paso a Paso de Cómo Usarlo
 
-1. **Clona o descarga el repositorio desde [GitHub](https://github.com/AI-School-F5-P2/Scalianchat_SQL.git):**
+1. **Clona o descarga el repositorio desde [GitHub](https://github.com/KarlaLamus/SCALIAN_SQL.git):**
     ```bash
     git clone https://github.com/AI-School-F5-P2/Scalianchat_SQL.git
     ```
